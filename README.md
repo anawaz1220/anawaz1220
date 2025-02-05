@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm currently working on:<br><br>Building innovative full-stack web applications using Vue.js, Node.js, and Laravel<br>Contributing to open-source GIS and mapping projects<br>Developing scalable enterprise solutions<br><br>👥 I'm looking to collaborate on:<br><br>Full-stack web development projects<br>Open source initiatives in GIS and mapping<br>Innovative SaaS solutions and MVPs<br><br>💡 I'm looking for help with:<br><br>Advanced Golang implementations<br>Performance optimization in large-scale applications<br>Cloud infrastructure best practices<br><br>🌱 I'm currently learning:<br><br>Advanced Golang patterns<br>Microservices architecture<br>Cloud-native technologies<br><br>💬 Ask me about:<br><br>Full-stack development (Vue.js, Nuxt.js, Node.js, Laravel)<br>Database design and optimization (PostgreSQL)<br>GIS integration and mapping solutions<br>Remote work and freelancing best practices<br><br>⚡ Fun fact:<br>"I've helped digitize urban property tax systems using GIS technology, combining my passion for coding with real-world impact!"
+ I'm currently working on:<br><br>Building innovative full-stack web applications using Vue.js, Node.js, and Laravel<br>Contributing to open-source GIS and mapping projects<br>Developing scalable enterprise solutions<br>
 
 
 ## 🌐 Socials:
