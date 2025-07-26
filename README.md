@@ -1,5 +1,19 @@
-# 💫 About Me:
- I'm currently working on:<br><br>Building innovative full-stack web applications using React and Node.js<br>Contributing to open-source GIS and mapping projects<br>Developing scalable enterprise solutions<br>Innovative SaaS solutions and MVPs<br><br>💬 Ask me about:<br>Full-stack development (React, Vue.js, Nuxt.js, Node.js, Laravel)<br>Database design and optimization (PostgreSQL)<br>GIS integration and mapping solutions<br>Remote work and freelancing best practices<br><br>⚡ Fun fact:<br>"I've helped digitize urban property tax systems using GIS technology, combining my passion for coding with real-world impact!"
+## 💫 About Me
+
+🚀 I'm a passionate full-stack developer and GIS specialist, building innovative and scalable web solutions that make real-world impact.
+
+### 🔧 Currently Working On:
+- Developing full-stack web apps using **React**, **Node.js**, and **Laravel**
+- Contributing to open-source **GIS** and **mapping** projects
+- Creating enterprise-grade solutions and SaaS MVPs
+- Optimizing database design with **PostgreSQL**
+
+### 💬 Ask Me About:
+- Full-stack development (React, Vue.js, Nuxt.js, Node.js, Laravel)
+- GIS integration & custom mapping solutions
+- Spatial data analysis and visualization
+- PostgreSQL optimization and spatial queries
+- Freelancing and remote work best practices
 
 
 ## 🌐 Socials:
